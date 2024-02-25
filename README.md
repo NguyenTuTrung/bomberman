@@ -6,6 +6,7 @@ Thành viên nhóm Gryffindor:
 - Vũ Huy Hoàng - 20020414
 - Nguyễn Việt Hoàng - 20020196
 - Vũ Hoàng Anh - 20020362
+- Nguyễn Tử Trung - 21020415
 
 ## Tổng quan
 
